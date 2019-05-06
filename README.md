@@ -4,7 +4,7 @@ To run this Project
 
 Run following command in your Mac/Linux terminal:
 
-Clone the Repositroy using Https or SSH key
+Clone the Repositroy using Https or SSH key : https://github.com/waqas1739/Flicker-Web-Application.git
 Check if NPM is install on your machine. If not then download it using the commands for mac : Brew npm install. Install Node.js
 To initiate the server you need API key.
 Please apply API key from this link 
